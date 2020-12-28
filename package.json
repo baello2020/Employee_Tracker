@@ -15,5 +15,13 @@
     "inquirer": "^7.3.3",
     "mysql": "^2.18.1",
     "sql": "^0.78.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baello2020/Employee_Tracker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/baello2020/Employee_Tracker/issues"
+  },
+  "homepage": "https://github.com/baello2020/Employee_Tracker#readme"
 }
