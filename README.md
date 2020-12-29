@@ -15,8 +15,10 @@ This app is a Content Management System, in this app one can create employees, d
 
 ## Installations
 
+* npm init -y
 * nmp i inquirer 
 * npm i mysql
+* npm i sql
 
 ## Contributing
 A work in progress. And the possibilities are endless. <br> Please feel free to submit any code updates for review and acceptance.
