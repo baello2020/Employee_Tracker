@@ -11,7 +11,7 @@
 
 ## Description
 
-This app is a Content Management System, in this app one can create employees, departments, and roles. The app used MySQL to store all the data. The app asks for the necessary data to create all employees, departments, and employees.
+Content Management System, this app can add or remove employees, departments, and roles etc. The app used MySQL to store all the data. The app asks for the necessary data to add or remove employees, departments, and roles.
 
 ## Installations
 
