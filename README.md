@@ -11,7 +11,7 @@
 
 ## Description
 
-This app is a Content Management System, in this app one can create employees, departments, and roles. The app used MySQL to store all the data. The app asks for the necessary data to create all employees, departments, and employees. It can also modify existing data based on the prebuilt actions it has.
+This app is a Content Management System, in this app one can create employees, departments, and roles. The app used MySQL to store all the data. The app asks for the necessary data to create all employees, departments, and employees.
 
 ## Installations
 
@@ -31,7 +31,7 @@ So that I can organize and plan my business
 
 ## Project Demo Video
 
-https://www.youtube.com/watch?v=NAna_a1pz0w&feature=youtu.be&ab_channel=OrlandoB
+https://www.youtube.com/watch?v=C7_AuxCNfJw&feature=youtu.be&ab_channel=OrlandoB
 ## Credits
 Hat tip to UW / Trilogy instructor, TAs and staffs.
 ![UW](https://github.com/baello2020/Note_Taker/blob/main/assets/UWT.jpg "UW")
