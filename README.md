@@ -36,7 +36,7 @@ So that I can organize and plan my business
 https://www.youtube.com/watch?v=C7_AuxCNfJw&feature=youtu.be&ab_channel=OrlandoB
 ## Credits
 Hat tip to UW / Trilogy instructor, TAs and staffs.
-![UW](https://github.com/baello2020/Note_Taker/blob/main/assets/UWT.jpg "UW")
+* ![UW](https://github.com/baello2020/Note_Taker/blob/main/assets/UWT.jpg "UW")
 
 ## Questions
 please feel free to ask me any questions.
