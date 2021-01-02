@@ -1,4 +1,4 @@
-## Employee Tracker
+## Employee Management System <br> Employee Tracker
 
 - [Description](#Description)
 - [Installations](#Installations)
