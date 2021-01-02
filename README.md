@@ -36,7 +36,7 @@ So that I can organize and plan my business
 https://www.youtube.com/watch?v=C7_AuxCNfJw&feature=youtu.be&ab_channel=OrlandoB
 ## Credits
 Hat tip to UW / Trilogy instructor, TAs and staffs. <br>
- https://bootcamp.uw.edu/coding/ <br>
+ https://bootcamp.uw.edu/coding/ <br> <br>
  ![UW](https://github.com/baello2020/Note_Taker/blob/main/assets/UWT.jpg "UW")
 
 ## Questions
